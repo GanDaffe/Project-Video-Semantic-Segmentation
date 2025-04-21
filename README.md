@@ -15,3 +15,6 @@
 
 * Bộ dữ liệu huấn luyện: Bộ dữ liệu CityScape (có sẵn trên kaggle)
 * Bộ dữ liệu kiểm thử: Tự quay trên đường phố.
+
+
+## Trạng thái: Đang thực hiện
