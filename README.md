@@ -13,8 +13,12 @@
 
 ## Bộ dữ liệu dự kiến sử dụng: 
 
-* Bộ dữ liệu huấn luyện: Bộ dữ liệu CityScape (có sẵn trên kaggle)
+* Bộ dữ liệu huấn luyện: dansbecker/cityscapes-image-pairs (có sẵn trên kaggle)
 * Bộ dữ liệu kiểm thử: Tự quay trên đường phố.
 
+## Mô hình: 
+* Là nhánh semantic head kết hợp với backbone efficient net (có thay đổi một chút) được tham khảo từ paper: https://arxiv.org/pdf/2004.02307
+* Backbone: Efficient net B5
+* Tiêu chí đánh giá: mIOU, AP
 
 ## Trạng thái: Đang thực hiện
